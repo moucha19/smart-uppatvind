@@ -5363,16 +5363,6 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 137.16) (xy 41.91 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ea2b790-6905-4d71-b2d8-b596c7b12818")
-	)
-	(wire
-		(pts
 			(xy 36.83 176.53) (xy 48.26 176.53)
 		)
 		(stroke
@@ -5470,6 +5460,16 @@
 			(type default)
 		)
 		(uuid "1be61ebf-2323-4f89-99c9-8b1cd19bd507")
+	)
+	(wire
+		(pts
+			(xy 39.37 137.16) (xy 52.07 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c208e48-82fd-4b7d-8a4d-bb4b31db7b93")
 	)
 	(wire
 		(pts
@@ -6153,13 +6153,13 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 137.16) (xy 52.07 137.16)
+			(xy 39.37 121.92) (xy 52.07 121.92)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5d49c63c-3587-401c-a564-3823c77f64dd")
+		(uuid "612625d9-b121-4eb3-88d8-d63c9b543c6d")
 	)
 	(wire
 		(pts
@@ -6570,16 +6570,6 @@
 			(type default)
 		)
 		(uuid "86ae1357-9c4a-4a33-9570-bfb952504940")
-	)
-	(wire
-		(pts
-			(xy 39.37 121.92) (xy 52.07 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86b1f418-7d59-4e7a-8ebe-247b24366c61")
 	)
 	(wire
 		(pts
@@ -7190,6 +7180,16 @@
 			(type default)
 		)
 		(uuid "cc8b3593-3cc5-426b-a555-577f15d16e40")
+	)
+	(wire
+		(pts
+			(xy 27.94 121.92) (xy 31.75 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd27bf01-790e-42f8-88d6-dba423915f13")
 	)
 	(wire
 		(pts
@@ -7832,6 +7832,17 @@
 		)
 		(uuid "5a47b03e-b7ef-4677-82e3-0907e67f4cae")
 	)
+	(label "FG"
+		(at 27.94 121.92 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5eb4ce0f-2604-480a-89de-5d5ada9f81b7")
+	)
 	(label "PWM"
 		(at 128.27 177.8 0)
 		(fields_autoplaced yes)
@@ -7975,17 +7986,6 @@
 		)
 		(uuid "bc3ab61f-3d76-4c13-9576-356191192d6b")
 	)
-	(label "FG"
-		(at 39.37 137.16 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bdb6ebc5-bbc5-46b8-bef3-22cf2337811c")
-	)
 	(label "RTS"
 		(at 161.29 128.27 0)
 		(fields_autoplaced yes)
@@ -8042,7 +8042,7 @@
 		(uuid "e781ff63-b928-47e2-a1f2-d53cdd81e813")
 	)
 	(label "SW_FILTER"
-		(at 39.37 121.92 0)
+		(at 39.37 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9345,6 +9345,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 35.56 121.92 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b6fc480-950b-4a60-a3c2-f66b21f27caf")
+		(property "Reference" "JP1"
+			(at 35.56 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SolderJumper_2_Open"
+			(at 35.56 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 35.56 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 35.56 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 35.56 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ebc9f429-f962-4b25-a667-68ef6f08f827")
+		)
+		(pin "1"
+			(uuid "5f67d4c4-a628-4610-8785-c7dc1cff442c")
+		)
+		(instances
+			(project "smart-uppatvind"
+				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
+					(reference "JP1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VDD")
 		(at 59.69 22.86 0)
 		(unit 1)
@@ -9405,75 +9473,6 @@
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
 					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:SolderJumper_2_Open")
-		(at 45.72 137.16 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "384f046d-5032-4a35-87da-8d5c6fb190dd")
-		(property "Reference" "JP1"
-			(at 45.72 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SolderJumper_2_Open"
-			(at 45.72 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Solder Jumper, 2-pole, open"
-			(at 45.72 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e1d0de93-58d7-4044-96d9-1eea879db1f8")
-		)
-		(pin "1"
-			(uuid "00564655-c2c8-4105-8aaf-004dc179cf2a")
-		)
-		(instances
-			(project ""
-				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "JP1")
 					(unit 1)
 				)
 			)
