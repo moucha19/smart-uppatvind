@@ -10428,7 +10428,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "EXT_SENSOR"
+		(property "Value" "QWIIC"
 			(at 71.12 29.5655 0)
 			(effects
 				(font
