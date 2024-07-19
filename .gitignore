@@ -27,6 +27,7 @@ fp-info-cache
 *.dsn
 *.ses
 jlcpcb/fab
+fab
 
 # Exported BOM files
 *.xml
