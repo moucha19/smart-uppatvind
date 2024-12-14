@@ -10573,7 +10573,7 @@
 				)
 			)
 		)
-		(property "Value" "330 R"
+		(property "Value" "330R"
 			(at 91.44 115.57 90)
 			(effects
 				(font
@@ -10716,7 +10716,7 @@
 				)
 			)
 		)
-		(property "Value" "330 R"
+		(property "Value" "330R"
 			(at 91.44 102.87 90)
 			(effects
 				(font
@@ -10939,7 +10939,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5.1kR"
+		(property "Value" "5.1k"
 			(at 181.61 116.84 90)
 			(effects
 				(font
@@ -11706,7 +11706,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "330 R"
+		(property "Value" "330R"
 			(at 187.96 148.59 0)
 			(effects
 				(font
@@ -12901,7 +12901,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5.1kR"
+		(property "Value" "5.1k"
 			(at 181.61 133.35 90)
 			(effects
 				(font
@@ -14354,7 +14354,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330 R"
+		(property "Value" "330R"
 			(at 194.31 109.2199 0)
 			(effects
 				(font
