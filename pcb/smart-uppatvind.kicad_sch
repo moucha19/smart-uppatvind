@@ -6474,16 +6474,6 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 121.92) (xy 132.08 121.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "736a0c63-37a4-4b03-a602-37ecb18d83b8")
-	)
-	(wire
-		(pts
 			(xy 154.94 35.56) (xy 167.64 35.56)
 		)
 		(stroke
@@ -8752,7 +8742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 128.27 83.82 0)
 			(effects
 				(font
@@ -11470,7 +11460,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 134.112 127 90)
 			(effects
 				(font
@@ -13062,7 +13052,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 119.38 135.382 90)
 			(effects
 				(font
@@ -13733,7 +13723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 118.11 100.33 0)
 			(effects
 				(font
@@ -13934,7 +13924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 134.112 116.84 90)
 			(effects
 				(font
@@ -14684,7 +14674,7 @@
 				)
 			)
 		)
-		(property "Value" "120R"
+		(property "Value" "150R"
 			(at 113.03 91.44 90)
 			(effects
 				(font
@@ -14692,7 +14682,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 113.03 95.25 0)
 			(effects
 				(font
@@ -15097,7 +15087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 123.952 142.24 90)
 			(effects
 				(font
