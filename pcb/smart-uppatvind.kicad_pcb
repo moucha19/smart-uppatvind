@@ -260,7 +260,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -473,7 +473,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -686,7 +686,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -695,19 +695,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" "C25104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fcbc3db1-e8b8-430a-a7fb-8134a4c27ba1")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1136,7 +1123,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1349,7 +1336,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1358,19 +1345,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" "C25104"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "13892342-fd0d-4a5e-93f0-1fe76f082c5c")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3754,7 +3728,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4937,7 +4911,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5493,7 +5467,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5919,7 +5893,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5928,19 +5902,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" " C25905"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7b95c81c-cf62-4d54-82ba-f451ddcfe05a")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -8179,7 +8140,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10642,7 +10603,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11305,7 +11266,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11314,19 +11275,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" " C25905"
-			(at 0 0 -90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "23df734e-f48d-45c1-9a33-ad4c3df7f86f")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12503,7 +12451,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12512,19 +12460,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" " C25905"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "41ec7979-f8df-4cbf-b66c-5e45c157ea87")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12729,7 +12664,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12738,19 +12673,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" " C25905"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "386b2c4f-5cd3-424b-884d-ae784a56cde4")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -13861,7 +13783,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13870,19 +13792,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "LCSC" "C25104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4ad64691-7c63-42af-8f82-f6faf2b8d695")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -14300,7 +14209,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18479,7 +18388,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Resistor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18488,20 +18397,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "LCSC" "C25104"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "d03f192a-7bc3-44b8-ae06-ca8d1683c1e2")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -19444,7 +19339,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19462,7 +19357,7 @@
 		(path "/8a120f99-860b-4fd2-b03b-b3fc7b330288")
 		(sheetname "Root")
 		(sheetfile "smart-uppatvind.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd dnp)
 		(fp_line
 			(start 0.261252 -0.735)
 			(end -0.261252 -0.735)
@@ -19681,7 +19576,7 @@
 		(path "/3e5a49f8-8b15-4052-8f10-15070168ab55")
 		(sheetname "Root")
 		(sheetfile "smart-uppatvind.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd dnp)
 		(fp_line
 			(start 0.261252 0.735)
 			(end -0.261252 0.735)
@@ -19882,7 +19777,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -19900,7 +19795,7 @@
 		(path "/9bfc5a5f-a573-43a3-8437-2d77922a9226")
 		(sheetname "Root")
 		(sheetfile "smart-uppatvind.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd dnp)
 		(fp_line
 			(start 0.261252 -0.735)
 			(end -0.261252 -0.735)
@@ -20395,7 +20290,7 @@
 		(path "/8232b6d3-ddd6-47c2-82ee-296dcf316484")
 		(sheetname "Root")
 		(sheetfile "smart-uppatvind.kicad_sch")
-		(attr smd exclude_from_bom dnp)
+		(attr smd dnp)
 		(fp_line
 			(start 0.261252 0.735)
 			(end -0.261252 0.735)
@@ -24854,6 +24749,46 @@
 		)
 	)
 	(zone
+		(net 41)
+		(net_name "/BOOT")
+		(layer "F.Cu")
+		(uuid "8f8b1b74-31e3-4b8e-a3ab-6320fcc98193")
+		(name "$teardrop_padvia$")
+		(hatch full 0.1)
+		(priority 30000)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(filled_areas_thickness no)
+		(fill yes
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 1)
+			(island_area_min 10)
+		)
+		(polygon
+			(pts
+				(xy 109.745559 53.277665) (xy 109.922335 53.454441) (xy 110.49875 52.990302) (xy 110.188207 52.299293)
+				(xy 109.675 52.75)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 110.192818 52.310814) (xy 110.194699 52.313739) (xy 110.495046 52.98206) (xy 110.495311 52.991011)
+				(xy 110.491712 52.995969) (xy 109.930517 53.447852) (xy 109.921924 53.450371) (xy 109.914906 53.447012)
+				(xy 109.748358 53.280464) (xy 109.745034 53.273742) (xy 109.67583 52.756208) (xy 109.67813 52.747553)
+				(xy 109.6797 52.745872) (xy 110.176307 52.309743) (xy 110.184784 52.30686)
+			)
+		)
+	)
+	(zone
 		(net 1)
 		(net_name "+5V")
 		(layer "F.Cu")
@@ -25087,46 +25022,6 @@
 				(xy 59.215989 43.619979) (xy 59.200703 43.615883) (xy 59.139566 43.5995) (xy 59.139562 43.5995)
 				(xy 57.4645 43.5995) (xy 57.419245 43.580755) (xy 57.4005 43.5355) (xy 57.4005 41.0645) (xy 57.419245 41.019245)
 				(xy 57.4645 41.0005) (xy 61.136 41.0005)
-			)
-		)
-	)
-	(zone
-		(net 41)
-		(net_name "/BOOT")
-		(layer "F.Cu")
-		(uuid "d18bdb8b-781a-4e04-b89c-dffe68164941")
-		(name "$teardrop_padvia$")
-		(hatch full 0.1)
-		(priority 30000)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(filled_areas_thickness no)
-		(fill yes
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-			(island_removal_mode 1)
-			(island_area_min 10)
-		)
-		(polygon
-			(pts
-				(xy 109.745559 53.277665) (xy 109.922335 53.454441) (xy 110.49875 52.990302) (xy 110.188207 52.299293)
-				(xy 109.675 52.75)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 110.192818 52.310814) (xy 110.194699 52.313739) (xy 110.495046 52.98206) (xy 110.495311 52.991011)
-				(xy 110.491712 52.995969) (xy 109.930517 53.447852) (xy 109.921924 53.450371) (xy 109.914906 53.447012)
-				(xy 109.748358 53.280464) (xy 109.745034 53.273742) (xy 109.67583 52.756208) (xy 109.67813 52.747553)
-				(xy 109.6797 52.745872) (xy 110.176307 52.309743) (xy 110.184784 52.30686)
 			)
 		)
 	)
