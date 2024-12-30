@@ -5077,7 +5077,7 @@
 		(uuid "20066e6c-6a98-4e7d-9e27-0c8774455ff3")
 	)
 	(junction
-		(at 212.09 25.4)
+		(at 215.9 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27c40d20-207b-4359-96ca-ea29750fce77")
@@ -5155,7 +5155,7 @@
 		(uuid "5ee89814-b579-4bfc-8278-8cd7449fdf1d")
 	)
 	(junction
-		(at 212.09 60.96)
+		(at 215.9 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "63654a43-69da-4760-b93a-3e3106f20032")
@@ -5185,7 +5185,7 @@
 		(uuid "6a18f15a-f3e2-4b75-bdba-3279fb96956a")
 	)
 	(junction
-		(at 54.61 38.1)
+		(at 25.4 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f4a0ff6-7620-49ab-8c61-4ff10cd0dc49")
@@ -5323,7 +5323,7 @@
 		(uuid "e57a0575-496b-4aee-84ba-fa3753277c46")
 	)
 	(junction
-		(at 212.09 49.53)
+		(at 215.9 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e632e49e-1ff5-483a-851a-c85ad0300577")
@@ -5335,7 +5335,7 @@
 		(uuid "ec7dfb03-a8f1-4c2d-8ddf-1038cc48b735")
 	)
 	(junction
-		(at 212.09 30.48)
+		(at 215.9 30.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f2e8f07a-489b-4bb6-b57d-d5deb86de91d")
@@ -5436,7 +5436,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 52.07) (xy 63.5 52.07)
+			(xy 52.07 21.59) (xy 63.5 21.59)
 		)
 		(stroke
 			(width 0)
@@ -5456,7 +5456,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 21.59) (xy 212.09 25.4)
+			(xy 215.9 21.59) (xy 215.9 25.4)
 		)
 		(stroke
 			(width 0)
@@ -5606,7 +5606,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 52.07) (xy 36.83 52.07)
+			(xy 60.96 53.34) (xy 66.04 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5666,7 +5666,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 49.53) (xy 40.64 52.07)
+			(xy 69.85 50.8) (xy 69.85 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5976,7 +5976,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 49.53) (xy 63.5 49.53)
+			(xy 53.34 19.05) (xy 63.5 19.05)
 		)
 		(stroke
 			(width 0)
@@ -5996,7 +5996,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 44.45) (xy 212.09 49.53)
+			(xy 215.9 44.45) (xy 215.9 49.53)
 		)
 		(stroke
 			(width 0)
@@ -6056,7 +6056,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 22.86) (xy 59.69 26.67)
+			(xy 30.48 44.45) (xy 30.48 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6096,7 +6096,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 60.96) (xy 204.47 60.96)
+			(xy 201.93 60.96) (xy 205.74 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6156,7 +6156,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 49.53) (xy 40.64 49.53)
+			(xy 60.96 50.8) (xy 69.85 50.8)
 		)
 		(stroke
 			(width 0)
@@ -6216,7 +6216,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 38.1) (xy 54.61 38.1)
+			(xy 39.37 59.69) (xy 25.4 59.69)
 		)
 		(stroke
 			(width 0)
@@ -6246,7 +6246,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 44.45) (xy 36.83 46.99)
+			(xy 66.04 45.72) (xy 66.04 48.26)
 		)
 		(stroke
 			(width 0)
@@ -6256,7 +6256,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 38.1) (xy 54.61 39.37)
+			(xy 25.4 59.69) (xy 25.4 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6366,7 +6366,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 31.75) (xy 63.5 31.75)
+			(xy 29.21 53.34) (xy 34.29 53.34)
 		)
 		(stroke
 			(width 0)
@@ -6406,7 +6406,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 30.48) (xy 212.09 36.83)
+			(xy 215.9 30.48) (xy 215.9 36.83)
 		)
 		(stroke
 			(width 0)
@@ -6586,7 +6586,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 59.69) (xy 36.83 59.69)
+			(xy 60.96 60.96) (xy 66.04 60.96)
 		)
 		(stroke
 			(width 0)
@@ -6646,7 +6646,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 24.13) (xy 54.61 24.13)
+			(xy 34.29 45.72) (xy 25.4 45.72)
 		)
 		(stroke
 			(width 0)
@@ -6716,7 +6716,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 49.53) (xy 212.09 49.53)
+			(xy 180.34 49.53) (xy 215.9 49.53)
 		)
 		(stroke
 			(width 0)
@@ -6866,7 +6866,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 36.83) (xy 68.58 38.1)
+			(xy 39.37 58.42) (xy 39.37 59.69)
 		)
 		(stroke
 			(width 0)
@@ -6956,7 +6956,7 @@
 	)
 	(wire
 		(pts
-			(xy 58.42 29.21) (xy 63.5 29.21)
+			(xy 29.21 50.8) (xy 34.29 50.8)
 		)
 		(stroke
 			(width 0)
@@ -7186,7 +7186,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 54.61) (xy 36.83 54.61)
+			(xy 60.96 55.88) (xy 66.04 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7206,7 +7206,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 49.53) (xy 212.09 50.8)
+			(xy 215.9 49.53) (xy 215.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -7216,7 +7216,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 25.4) (xy 212.09 25.4)
+			(xy 201.93 25.4) (xy 215.9 25.4)
 		)
 		(stroke
 			(width 0)
@@ -7326,7 +7326,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 26.67) (xy 63.5 26.67)
+			(xy 30.48 48.26) (xy 34.29 48.26)
 		)
 		(stroke
 			(width 0)
@@ -7366,7 +7366,7 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 30.48) (xy 212.09 30.48)
+			(xy 199.39 30.48) (xy 215.9 30.48)
 		)
 		(stroke
 			(width 0)
@@ -7386,7 +7386,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 57.15) (xy 63.5 57.15)
+			(xy 53.34 26.67) (xy 63.5 26.67)
 		)
 		(stroke
 			(width 0)
@@ -7486,7 +7486,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 46.99) (xy 31.75 46.99)
+			(xy 66.04 48.26) (xy 60.96 48.26)
 		)
 		(stroke
 			(width 0)
@@ -7496,7 +7496,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 24.13) (xy 54.61 38.1)
+			(xy 25.4 45.72) (xy 25.4 59.69)
 		)
 		(stroke
 			(width 0)
@@ -7516,7 +7516,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 52.07) (xy 52.07 59.69)
+			(xy 52.07 21.59) (xy 52.07 29.21)
 		)
 		(stroke
 			(width 0)
@@ -7536,7 +7536,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 25.4) (xy 212.09 30.48)
+			(xy 215.9 25.4) (xy 215.9 30.48)
 		)
 		(stroke
 			(width 0)
@@ -7626,7 +7626,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 57.15) (xy 36.83 57.15)
+			(xy 60.96 58.42) (xy 66.04 58.42)
 		)
 		(stroke
 			(width 0)
@@ -7646,7 +7646,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 58.42) (xy 212.09 60.96)
+			(xy 215.9 58.42) (xy 215.9 60.96)
 		)
 		(stroke
 			(width 0)
@@ -7686,7 +7686,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 60.96) (xy 212.09 62.23)
+			(xy 215.9 60.96) (xy 215.9 62.23)
 		)
 		(stroke
 			(width 0)
@@ -7806,7 +7806,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 60.96) (xy 212.09 60.96)
+			(xy 210.82 60.96) (xy 215.9 60.96)
 		)
 		(stroke
 			(width 0)
@@ -8116,7 +8116,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 54.61) (xy 63.5 54.61)
+			(xy 53.34 24.13) (xy 63.5 24.13)
 		)
 		(stroke
 			(width 0)
@@ -8357,7 +8357,7 @@
 		(uuid "2e6285eb-e4bc-407b-8cbe-c3dfd6a78fde")
 	)
 	(label "DTR"
-		(at 36.83 59.69 180)
+		(at 66.04 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8368,7 +8368,7 @@
 		(uuid "32c00185-ae29-45bb-8d63-81f61829f0b2")
 	)
 	(label "PWM_5V"
-		(at 53.34 54.61 0)
+		(at 53.34 24.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8390,7 +8390,7 @@
 		(uuid "396ef8ca-509b-4fcd-b24c-40f524c2580f")
 	)
 	(label "SDA"
-		(at 58.42 29.21 0)
+		(at 29.21 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8401,7 +8401,7 @@
 		(uuid "3f7dc9bf-3e1f-4378-8d80-856dfea46981")
 	)
 	(label "TX"
-		(at 36.83 54.61 180)
+		(at 66.04 55.88 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8467,7 +8467,7 @@
 		(uuid "70dfb97e-1c84-41fa-abbb-7744d3a85c8e")
 	)
 	(label "FG"
-		(at 53.34 57.15 0)
+		(at 53.34 26.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8500,7 +8500,7 @@
 		(uuid "8d018d61-2864-4de9-a06c-270947e4581f")
 	)
 	(label "RX"
-		(at 36.83 52.07 180)
+		(at 66.04 53.34 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8533,7 +8533,7 @@
 		(uuid "9eaf2a20-f412-4377-80e2-224bd6d2d2ef")
 	)
 	(label "FAN_24V"
-		(at 53.34 49.53 0)
+		(at 53.34 19.05 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8555,7 +8555,7 @@
 		(uuid "a41506ff-3da4-4732-953c-cae6becfa127")
 	)
 	(label "SCL"
-		(at 58.42 31.75 0)
+		(at 29.21 53.34 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8621,7 +8621,7 @@
 		(uuid "d5062517-43f1-4caf-872b-e4043051894a")
 	)
 	(label "RTS"
-		(at 36.83 57.15 180)
+		(at 66.04 58.42 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8696,7 +8696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "008578ec-1137-42bc-b0d3-9f147724760d")
-		(property "Reference" "C4"
+		(property "Reference" "C5"
 			(at 101.6 32.1309 0)
 			(effects
 				(font
@@ -8750,7 +8750,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C4")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -8766,7 +8766,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04912c49-ec86-4615-adf6-101aef09dc03")
-		(property "Reference" "R16"
+		(property "Reference" "R23"
 			(at 242.57 115.5699 0)
 			(effects
 				(font
@@ -8820,7 +8820,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R16")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -8835,7 +8835,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0500e3e9-6869-4931-bb5f-360086dafa3a")
-		(property "Reference" "Q2"
+		(property "Reference" "Q4"
 			(at 193.04 93.345 0)
 			(effects
 				(font
@@ -8895,7 +8895,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "Q2")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -8910,7 +8910,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "076c74fc-d893-4f14-bed0-2fdbf7bc6d0f")
-		(property "Reference" "R21"
+		(property "Reference" "R10"
 			(at 130.81 82.55 0)
 			(effects
 				(font
@@ -8964,7 +8964,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R21")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -9045,7 +9045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a0d8b69-2bd2-4377-8eca-acb941838885")
-		(property "Reference" "R1"
+		(property "Reference" "R2"
 			(at 186.69 34.29 90)
 			(effects
 				(font
@@ -9097,7 +9097,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R1")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -9172,7 +9172,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 212.09 62.23 0)
+		(at 215.9 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9181,7 +9181,7 @@
 		(fields_autoplaced yes)
 		(uuid "104f6283-0700-4ab9-8987-fed7207bca37")
 		(property "Reference" "#PWR017"
-			(at 212.09 68.58 0)
+			(at 215.9 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9190,7 +9190,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 212.09 67.31 0)
+			(at 215.9 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9198,7 +9198,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 62.23 0)
+			(at 215.9 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9207,7 +9207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 62.23 0)
+			(at 215.9 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9216,7 +9216,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 212.09 62.23 0)
+			(at 215.9 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9305,7 +9305,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 212.09 54.61 180)
+		(at 215.9 54.61 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9313,8 +9313,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "196138a3-0b1d-40da-b645-0ee03b52b6b8")
-		(property "Reference" "R5"
-			(at 214.63 53.3399 0)
+		(property "Reference" "R3"
+			(at 218.44 53.3399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9323,7 +9323,7 @@
 			)
 		)
 		(property "Value" "698R"
-			(at 214.63 55.8799 0)
+			(at 218.44 55.8799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9332,7 +9332,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 213.868 54.61 90)
+			(at 217.678 54.61 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9341,7 +9341,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 54.61 0)
+			(at 215.9 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9350,7 +9350,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 212.09 54.61 0)
+			(at 215.9 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9367,7 +9367,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R5")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -9383,7 +9383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "197ed770-2284-4e87-a46e-0ce0a9b59935")
-		(property "Reference" "R4"
+		(property "Reference" "R1"
 			(at 182.88 53.3399 0)
 			(effects
 				(font
@@ -9437,7 +9437,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R4")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -9518,7 +9518,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ef33709-2ba0-4d74-8864-49ac3e37b730")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 250.19 19.05 0)
 			(effects
 				(font
@@ -9574,7 +9574,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -9590,7 +9590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20522d3d-9550-4ef2-ae0f-8cf4623a5cba")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 65.6941 146.05 0)
 			(effects
 				(font
@@ -9695,7 +9695,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -9711,7 +9711,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21cff087-dcd3-4eff-a5a0-076fe5962ac5")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 142.24 17.78 0)
 			(effects
 				(font
@@ -9784,7 +9784,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -10059,7 +10059,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 59.69 22.86 0)
+		(at 30.48 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10068,7 +10068,7 @@
 		(fields_autoplaced yes)
 		(uuid "328c7d41-9033-427a-82cb-92d5458735cb")
 		(property "Reference" "#PWR06"
-			(at 59.69 26.67 0)
+			(at 30.48 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10077,7 +10077,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 59.69 17.78 0)
+			(at 30.48 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10085,7 +10085,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 59.69 22.86 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10094,7 +10094,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 59.69 22.86 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10103,7 +10103,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 59.69 22.86 0)
+			(at 30.48 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10201,7 +10201,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3990a30d-c5ae-476b-87d3-df85cef2205d")
-		(property "Reference" "Q5"
+		(property "Reference" "Q3"
 			(at 132.08 95.2499 0)
 			(effects
 				(font
@@ -10259,7 +10259,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "Q5")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -10274,7 +10274,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "3e5a49f8-8b15-4052-8f10-15070168ab55")
-		(property "Reference" "C13"
+		(property "Reference" "C14"
 			(at 212.09 91.3892 90)
 			(effects
 				(font
@@ -10326,7 +10326,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C13")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -10342,7 +10342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "43803b4b-5fd9-4141-a43d-b89de0ac4dc3")
-		(property "Reference" "C6"
+		(property "Reference" "C1"
 			(at 205.74 38.4809 0)
 			(effects
 				(font
@@ -10396,7 +10396,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C6")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -10404,7 +10404,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 52.07 59.69 0)
+		(at 52.07 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10413,7 +10413,7 @@
 		(fields_autoplaced yes)
 		(uuid "4437f881-1218-4c5a-ab7f-1b961e8c8964")
 		(property "Reference" "#PWR013"
-			(at 52.07 66.04 0)
+			(at 52.07 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10422,7 +10422,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 52.07 64.77 0)
+			(at 52.07 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10430,7 +10430,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 59.69 0)
+			(at 52.07 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10439,7 +10439,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 59.69 0)
+			(at 52.07 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10448,7 +10448,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 52.07 59.69 0)
+			(at 52.07 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10477,7 +10477,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "45130568-d6e8-4d97-885c-0c4b3054a870")
-		(property "Reference" "Q3"
+		(property "Reference" "Q2"
 			(at 138.43 135.255 0)
 			(effects
 				(font
@@ -10537,7 +10537,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "Q3")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -10629,7 +10629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48fcd2da-08e4-4179-a7b5-0fc876b88a7f")
-		(property "Reference" "C7"
+		(property "Reference" "C2"
 			(at 173.99 41.91 90)
 			(effects
 				(font
@@ -10681,7 +10681,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C7")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -10697,7 +10697,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bcedb44-a72f-49c1-9c85-4df832b12091")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 52.07 172.7514 0)
 			(effects
 				(font
@@ -10757,7 +10757,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -10831,7 +10831,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 212.09 40.64 180)
+		(at 215.9 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10839,8 +10839,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53c925f7-ff80-41dd-b498-dd1bbc252985")
-		(property "Reference" "R2"
-			(at 214.63 39.3699 0)
+		(property "Reference" "R4"
+			(at 218.44 39.3699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10849,7 +10849,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 214.63 41.9099 0)
+			(at 218.44 41.9099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10858,7 +10858,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 213.868 40.64 90)
+			(at 217.678 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10867,7 +10867,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 212.09 40.64 0)
+			(at 215.9 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10876,7 +10876,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 212.09 40.64 0)
+			(at 215.9 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10893,7 +10893,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R2")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -10909,7 +10909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55fdd909-b905-4675-a2a4-08e1f772ee90")
-		(property "Reference" "C1"
+		(property "Reference" "C4"
 			(at 195.58 35.56 90)
 			(effects
 				(font
@@ -10961,7 +10961,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C1")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -10977,7 +10977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57266dc1-1104-4f78-a02c-4cc4ca959d52")
-		(property "Reference" "R8"
+		(property "Reference" "R27"
 			(at 242.57 90.1699 0)
 			(effects
 				(font
@@ -11031,7 +11031,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R8")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -11047,7 +11047,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59d88d91-dea4-42ee-9c37-74f6943f066c")
-		(property "Reference" "Q4"
+		(property "Reference" "Q5"
 			(at 193.04 113.665 0)
 			(effects
 				(font
@@ -11107,7 +11107,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "Q4")
+					(reference "Q5")
 					(unit 1)
 				)
 			)
@@ -11115,7 +11115,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic_MountingPin:Conn_01x04_MountingPin")
-		(at 68.58 26.67 0)
+		(at 39.37 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11123,8 +11123,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b19e603-d206-4c01-8d73-0bcfa355d457")
-		(property "Reference" "J2"
-			(at 71.12 27.0255 0)
+		(property "Reference" "J3"
+			(at 41.91 48.6155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11133,7 +11133,7 @@
 			)
 		)
 		(property "Value" "QWIIC"
-			(at 71.12 29.5655 0)
+			(at 41.91 51.1555 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11142,7 +11142,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
-			(at 68.58 26.67 0)
+			(at 39.37 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11151,7 +11151,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 26.67 0)
+			(at 39.37 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11160,7 +11160,7 @@
 			)
 		)
 		(property "Description" "Generic connectable mounting pin connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 68.58 26.67 0)
+			(at 39.37 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11186,7 +11186,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -11269,7 +11269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f8e5eac-7643-40ec-818f-4026b3a46557")
-		(property "Reference" "R10"
+		(property "Reference" "R16"
 			(at 87.63 111.76 90)
 			(effects
 				(font
@@ -11330,7 +11330,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R10")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -11412,7 +11412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6113a04b-f52c-4ea3-a50b-67d11534da50")
-		(property "Reference" "R7"
+		(property "Reference" "R15"
 			(at 87.63 99.06 90)
 			(effects
 				(font
@@ -11473,7 +11473,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R7")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -11558,7 +11558,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6b027abb-ab43-4526-b6fc-df9eb4baf0db")
-		(property "Reference" "R13"
+		(property "Reference" "R26"
 			(at 177.8 88.9 90)
 			(effects
 				(font
@@ -11610,7 +11610,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R13")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -11692,7 +11692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "753c7d41-0037-4c21-a3b2-2923e31eb4a3")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 128.27 45.7199 0)
 			(effects
 				(font
@@ -11746,7 +11746,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -11762,7 +11762,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77dfb38e-a911-4aa3-8a95-b8d8141115c5")
-		(property "Reference" "R14"
+		(property "Reference" "R8"
 			(at 138.43 125.7299 0)
 			(effects
 				(font
@@ -11816,7 +11816,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R14")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -11900,7 +11900,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bd7bcce-457b-4fba-a8b5-dc4239778ac2")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 78.74 172.7514 0)
 			(effects
 				(font
@@ -11960,7 +11960,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -12101,7 +12101,7 @@
 	)
 	(symbol
 		(lib_id "Device:NetTie_2")
-		(at 207.01 60.96 0)
+		(at 208.28 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -12110,7 +12110,7 @@
 		(fields_autoplaced yes)
 		(uuid "7c9bdbba-58bb-4cf1-8503-6b5781ab0e8e")
 		(property "Reference" "NT1"
-			(at 207.01 58.42 0)
+			(at 208.28 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12118,7 +12118,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 207.01 58.42 0)
+			(at 208.28 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12127,7 +12127,7 @@
 			)
 		)
 		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
-			(at 207.01 60.96 0)
+			(at 208.28 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12136,7 +12136,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 60.96 0)
+			(at 208.28 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12145,7 +12145,7 @@
 			)
 		)
 		(property "Description" "Net tie, 2 pins"
-			(at 207.01 60.96 0)
+			(at 208.28 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12178,7 +12178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7eebbc30-ef44-4dd1-a63c-32f4c23636fa")
-		(property "Reference" "TP4"
+		(property "Reference" "TP5"
 			(at 254 160.0199 0)
 			(effects
 				(font
@@ -12230,7 +12230,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "TP4")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -12313,7 +12313,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "8232b6d3-ddd6-47c2-82ee-296dcf316484")
-		(property "Reference" "C14"
+		(property "Reference" "C12"
 			(at 212.09 111.7092 90)
 			(effects
 				(font
@@ -12365,7 +12365,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C14")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -12381,7 +12381,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83fa82af-9589-4268-9377-ea738b65ae3e")
-		(property "Reference" "SW4"
+		(property "Reference" "SW2"
 			(at 267.97 128.27 0)
 			(effects
 				(font
@@ -12436,7 +12436,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "SW4")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -12452,7 +12452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "870fcd5a-9183-478a-b1fd-7343f5abf937")
-		(property "Reference" "C10"
+		(property "Reference" "C7"
 			(at 33.02 87.6299 0)
 			(effects
 				(font
@@ -12506,7 +12506,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C10")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -12521,7 +12521,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "89973227-206c-410f-ab26-b35910091efd")
-		(property "Reference" "R20"
+		(property "Reference" "R24"
 			(at 193.04 121.92 0)
 			(effects
 				(font
@@ -12575,7 +12575,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R20")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -12591,7 +12591,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8a120f99-860b-4fd2-b03b-b3fc7b330288")
-		(property "Reference" "C12"
+		(property "Reference" "C15"
 			(at 267.97 107.95 90)
 			(effects
 				(font
@@ -12643,7 +12643,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C12")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -12988,7 +12988,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "9bfc5a5f-a573-43a3-8437-2d77922a9226")
-		(property "Reference" "C15"
+		(property "Reference" "C13"
 			(at 267.97 116.84 90)
 			(effects
 				(font
@@ -13040,7 +13040,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C15")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -13122,7 +13122,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a02967d6-2b5e-4406-b8d1-ce2fc1a2a03d")
-		(property "Reference" "R23"
+		(property "Reference" "R21"
 			(at 158.75 181.61 90)
 			(effects
 				(font
@@ -13174,7 +13174,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R23")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -13189,7 +13189,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a0c46d87-e2f0-4657-a598-89c7a7f7fd1c")
-		(property "Reference" "R12"
+		(property "Reference" "R17"
 			(at 252.73 90.17 90)
 			(effects
 				(font
@@ -13241,7 +13241,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R12")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -13326,7 +13326,7 @@
 	)
 	(symbol
 		(lib_id "power:VDD")
-		(at 36.83 44.45 0)
+		(at 66.04 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13335,7 +13335,7 @@
 		(fields_autoplaced yes)
 		(uuid "a3b6a7be-73f2-48f1-b3b8-accf0766fd10")
 		(property "Reference" "#PWR09"
-			(at 36.83 48.26 0)
+			(at 66.04 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13344,7 +13344,7 @@
 			)
 		)
 		(property "Value" "VDD"
-			(at 36.83 39.37 0)
+			(at 66.04 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13352,7 +13352,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 36.83 44.45 0)
+			(at 66.04 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13361,7 +13361,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 36.83 44.45 0)
+			(at 66.04 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13370,7 +13370,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VDD\""
-			(at 36.83 44.45 0)
+			(at 66.04 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13400,7 +13400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5141e11-0849-4062-b503-01de103764be")
-		(property "Reference" "U4"
+		(property "Reference" "U3"
 			(at 136.8141 168.91 0)
 			(effects
 				(font
@@ -13472,7 +13472,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13558,7 +13558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a67efa66-6f7f-44ac-87fd-770b25f23b52")
-		(property "Reference" "R15"
+		(property "Reference" "R9"
 			(at 119.38 130.81 90)
 			(effects
 				(font
@@ -13610,7 +13610,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R15")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13760,7 +13760,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ac149ad7-844e-49ce-9198-a0c7f23403b9")
-		(property "Reference" "R17"
+		(property "Reference" "R25"
 			(at 177.8 105.41 90)
 			(effects
 				(font
@@ -13812,7 +13812,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R17")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -13886,7 +13886,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 212.09 21.59 0)
+		(at 215.9 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13895,7 +13895,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3b50e8f-f2dd-4dc8-bc03-02afe4e9e504")
 		(property "Reference" "#PWR03"
-			(at 212.09 25.4 0)
+			(at 215.9 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13904,7 +13904,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 212.09 16.51 0)
+			(at 215.9 16.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13912,7 +13912,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 21.59 0)
+			(at 215.9 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13921,7 +13921,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 21.59 0)
+			(at 215.9 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13930,7 +13930,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 212.09 21.59 0)
+			(at 215.9 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14028,7 +14028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4fa3c7d-326b-4def-ba68-38809a86999d")
-		(property "Reference" "C9"
+		(property "Reference" "C8"
 			(at 21.59 87.6299 0)
 			(effects
 				(font
@@ -14082,7 +14082,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C9")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -14090,7 +14090,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 39.37 0)
+		(at 25.4 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14099,7 +14099,7 @@
 		(fields_autoplaced yes)
 		(uuid "b69ca6e3-cdd8-464f-a96c-23b4836905d3")
 		(property "Reference" "#PWR08"
-			(at 54.61 45.72 0)
+			(at 25.4 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14108,7 +14108,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 54.61 44.45 0)
+			(at 25.4 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14116,7 +14116,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 39.37 0)
+			(at 25.4 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14125,7 +14125,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 39.37 0)
+			(at 25.4 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14134,7 +14134,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 39.37 0)
+			(at 25.4 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14222,7 +14222,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 40.64 52.07 0)
+		(at 69.85 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14231,7 +14231,7 @@
 		(fields_autoplaced yes)
 		(uuid "b8564bfe-eeb6-4634-a030-2082deebebe8")
 		(property "Reference" "#PWR012"
-			(at 40.64 58.42 0)
+			(at 69.85 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14240,7 +14240,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 40.64 57.15 0)
+			(at 69.85 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14248,7 +14248,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 40.64 52.07 0)
+			(at 69.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14257,7 +14257,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 40.64 52.07 0)
+			(at 69.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14266,7 +14266,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 52.07 0)
+			(at 69.85 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14295,7 +14295,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba92e38d-7cea-4521-92e0-c3959b3650aa")
-		(property "Reference" "R25"
+		(property "Reference" "R13"
 			(at 120.65 99.06 0)
 			(effects
 				(font
@@ -14349,7 +14349,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R25")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -14496,7 +14496,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2286d14-980e-4a8e-b708-bd52e431ce4e")
-		(property "Reference" "R11"
+		(property "Reference" "R6"
 			(at 138.43 115.5699 0)
 			(effects
 				(font
@@ -14550,7 +14550,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R11")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -14632,7 +14632,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce07aea9-f3d6-479a-93c6-68210d23a4aa")
-		(property "Reference" "C3"
+		(property "Reference" "C10"
 			(at 273.05 30.4799 0)
 			(effects
 				(font
@@ -14686,7 +14686,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C3")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -14778,7 +14778,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0f54534-2792-4712-8836-40d4ac1b4148")
-		(property "Reference" "TP5"
+		(property "Reference" "TP4"
 			(at 254 163.8299 0)
 			(effects
 				(font
@@ -14830,7 +14830,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "TP5")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -14838,7 +14838,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 68.58 52.07 0)
+		(at 68.58 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14846,8 +14846,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3215074-3d8f-4cc7-9bad-a055af7365c7")
-		(property "Reference" "J4"
-			(at 71.12 52.0699 0)
+		(property "Reference" "J2"
+			(at 71.12 21.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14856,7 +14856,7 @@
 			)
 		)
 		(property "Value" "FAN"
-			(at 71.12 54.6099 0)
+			(at 71.12 24.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14865,7 +14865,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
-			(at 68.58 52.07 0)
+			(at 68.58 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14874,7 +14874,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 52.07 0)
+			(at 68.58 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14883,7 +14883,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 68.58 52.07 0)
+			(at 68.58 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14906,7 +14906,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "J4")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -14922,7 +14922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db6cacc8-88c9-4cdf-8470-b3eb63265d09")
-		(property "Reference" "C8"
+		(property "Reference" "C3"
 			(at 173.99 66.04 90)
 			(effects
 				(font
@@ -14974,7 +14974,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C8")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -15056,7 +15056,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e162213f-4ff6-4d2a-a967-5a8ee3bddf0f")
-		(property "Reference" "R27"
+		(property "Reference" "R7"
 			(at 27.94 124.46 90)
 			(effects
 				(font
@@ -15108,7 +15108,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R27")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -15189,7 +15189,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e51ae739-6e0d-4802-8eb3-e06b7cd124ae")
-		(property "Reference" "R19"
+		(property "Reference" "R14"
 			(at 252.73 116.84 90)
 			(effects
 				(font
@@ -15241,7 +15241,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R19")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -15257,7 +15257,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e52f2ab9-cba2-492f-95b5-50f67b875678")
-		(property "Reference" "R6"
+		(property "Reference" "R19"
 			(at 54.61 88.9 90)
 			(effects
 				(font
@@ -15309,7 +15309,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R6")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -15390,7 +15390,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e97fe079-1e92-48ef-badf-75bb80ad361d")
-		(property "Reference" "R24"
+		(property "Reference" "R12"
 			(at 113.03 88.9 90)
 			(effects
 				(font
@@ -15442,7 +15442,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R24")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -15524,7 +15524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efeeb5be-0697-4fd4-be99-316fa79dc7e6")
-		(property "Reference" "R9"
+		(property "Reference" "R20"
 			(at 193.04 82.5499 0)
 			(effects
 				(font
@@ -15578,7 +15578,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R9")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -15793,7 +15793,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f60dc999-03c7-451f-9628-44e270c9a29a")
-		(property "Reference" "R18"
+		(property "Reference" "R11"
 			(at 128.27 140.9699 0)
 			(effects
 				(font
@@ -15847,7 +15847,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R18")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -15855,15 +15855,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x06_Pin")
-		(at 26.67 52.07 0)
+		(at 55.88 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f6c1698b-c421-45a0-93e8-71e27dfc3ed7")
-		(property "Reference" "J3"
-			(at 26.67 40.64 0)
+		(property "Reference" "J4"
+			(at 55.88 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15871,7 +15871,7 @@
 			)
 		)
 		(property "Value" "UART_PROG"
-			(at 26.67 43.18 0)
+			(at 55.88 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15879,7 +15879,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
-			(at 26.67 52.07 0)
+			(at 55.88 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15888,7 +15888,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 26.67 52.07 0)
+			(at 55.88 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15897,7 +15897,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x06, script generated"
-			(at 26.67 52.07 0)
+			(at 55.88 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15926,7 +15926,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "J3")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -15942,7 +15942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7d9c757-b5e2-4038-b371-3a0a6ba74fbe")
-		(property "Reference" "R26"
+		(property "Reference" "R18"
 			(at 27.94 109.22 90)
 			(effects
 				(font
@@ -15994,7 +15994,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "R26")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -16010,7 +16010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc1e2912-e58f-42f6-9725-808d2086afc8")
-		(property "Reference" "C2"
+		(property "Reference" "C9"
 			(at 234.95 30.4799 0)
 			(effects
 				(font
@@ -16064,7 +16064,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C2")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -16079,7 +16079,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fdbe2f5d-9616-415f-8311-74b4dd5a3a02")
-		(property "Reference" "SW2"
+		(property "Reference" "SW4"
 			(at 267.97 90.551 0)
 			(effects
 				(font
@@ -16131,7 +16131,7 @@
 		(instances
 			(project "smart-uppatvind"
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "SW2")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -16147,7 +16147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe1cf283-6216-4918-9cd0-0baf53c139ff")
-		(property "Reference" "C5"
+		(property "Reference" "C6"
 			(at 116.84 33.0199 0)
 			(effects
 				(font
@@ -16201,7 +16201,7 @@
 		(instances
 			(project ""
 				(path "/b09dc29a-b779-491f-be6b-b7a621e0664e"
-					(reference "C5")
+					(reference "C6")
 					(unit 1)
 				)
 			)
