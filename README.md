@@ -18,3 +18,8 @@ Unfortunately, it does not come with any smart controls, so I decided to create 
 * Auto-reset circuit to simplify firmware flashing process
 * **QWIIC** connector for external sensors
 * Optional onboard EEPROM
+
+![Front PCB view](img/render-front.png)
+![Comparison with the original](img/real-front.png)
+
+*This project is not affiliated with or endorsed by IKEA. Use this design at your own risk. Ensure you follow proper safety protocols when handling electronic components and soldering.*
